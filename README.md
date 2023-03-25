@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarthakPradhan
 - 👀 I’m interested in Machine Learning and Robotics.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently working as a Data Scientist.
 
 
 <!---
